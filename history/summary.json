@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2019,
-    "timeDay": 2019,
-    "timeWeek": 2019,
-    "timeMonth": 2019,
-    "timeYear": 2019,
+    "time": 1993,
+    "timeDay": 1993,
+    "timeWeek": 1993,
+    "timeMonth": 1993,
+    "timeYear": 1993,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/apps.fiscosuper.com.br.ico",
     "slug": "app-fisco-super",
     "status": "down",
-    "uptime": "69.76%",
-    "uptimeDay": "69.76%",
-    "uptimeWeek": "69.76%",
-    "uptimeMonth": "69.76%",
-    "uptimeYear": "69.76%",
+    "uptime": "3.28%",
+    "uptimeDay": "3.28%",
+    "uptimeWeek": "3.28%",
+    "uptimeMonth": "3.28%",
+    "uptimeYear": "3.28%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-05": 0
+      "2026-05-05": 12
     }
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 991,
-    "timeDay": 991,
-    "timeWeek": 991,
-    "timeMonth": 991,
-    "timeYear": 991,
+    "time": 773,
+    "timeDay": 773,
+    "timeWeek": 773,
+    "timeMonth": 773,
+    "timeYear": 773,
     "dailyMinutesDown": {}
   }
 ]
