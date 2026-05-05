@@ -1,7 +1,8 @@
-# Change these first
-owner: fiscosuper # Your GitHub organization or username, where this repository lives
-repo: status # The name of this repository
+# Configurações de Identidade
+owner: FiscoSuper
+repo: status
 
+# Sites para Monitoramento
 sites:
   - name: Site FiscoSuper
     url: https://fiscosuper.com.br/
@@ -10,20 +11,27 @@ sites:
   - name: Api FiscoSuper
     url: https://apps.fiscosuper.com.br/swagger/
 
+# Configuração da Página de Status
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  # O cname deve ser exatamente o que você configurou no seu DNS
+  cname: status.fiscosuper.com.br
+  
+  # Como você usa CNAME, o baseUrl deve permanecer comentado
+  # baseUrl: /status
+
+  # Personalização Visual e Textual
+  logoUrl: https://fiscosuper.com.br/favicon.ico
+  name: Status FiscoSuper
+  introTitle: "**Monitoramento de Disponibilidade FiscoSuper**"
+  introMessage: "Esta página apresenta o status em tempo real dos nossos serviços e aplicações. Monitoramento automático via GitHub Actions."
+  
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+# Configurações Adicionais (Opcional)
+# commitMessages:
+#   readmeContent: ":pencil: Update status summary [skip ci]"
+#   statsUpdate: ":chart_with_upwards_trend: Update uptime stats [skip ci]"
