@@ -7,7 +7,7 @@ sites:
   - name: Site FiscoSuper
     url: https://fiscosuper.com.br/
   - name: App FiscoSuper
-    url: https://apps.fiscosuper.com.br
+    url: https://apps.fiscosuper.com.br/login.xhtml
   - name: Api FiscoSuper
     url: https://apps.fiscosuper.com.br/swagger/
 
