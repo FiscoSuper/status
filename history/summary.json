@@ -4,37 +4,39 @@
     "url": "https://fiscosuper.com.br/",
     "icon": "https://icons.duckduckgo.com/ip3/fiscosuper.com.br.ico",
     "slug": "site-fisco-super",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "98.74%",
+    "uptimeDay": "98.74%",
+    "uptimeWeek": "98.74%",
+    "uptimeMonth": "98.74%",
+    "uptimeYear": "98.74%",
     "time": 1684,
     "timeDay": 1684,
     "timeWeek": 1684,
     "timeMonth": 1684,
     "timeYear": 1684,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-05-05": 10
+    }
   },
   {
     "name": "App FiscoSuper",
     "url": "https://apps.fiscosuper.com.br/login.xhtml",
     "icon": "https://icons.duckduckgo.com/ip3/apps.fiscosuper.com.br.ico",
     "slug": "app-fisco-super",
-    "status": "up",
-    "uptime": "14.73%",
-    "uptimeDay": "14.73%",
-    "uptimeWeek": "14.73%",
-    "uptimeMonth": "14.73%",
-    "uptimeYear": "14.73%",
+    "status": "down",
+    "uptime": "96.71%",
+    "uptimeDay": "96.71%",
+    "uptimeWeek": "96.71%",
+    "uptimeMonth": "96.71%",
+    "uptimeYear": "96.71%",
     "time": 2500,
     "timeDay": 2500,
     "timeWeek": 2500,
     "timeMonth": 2500,
     "timeYear": 2500,
     "dailyMinutesDown": {
-      "2026-05-05": 21
+      "2026-05-05": 26
     }
   },
   {
@@ -42,17 +44,19 @@
     "url": "https://apps.fiscosuper.com.br/swagger/",
     "icon": "https://icons.duckduckgo.com/ip3/apps.fiscosuper.com.br.ico",
     "slug": "api-fisco-super",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 757,
     "timeDay": 757,
     "timeWeek": 757,
     "timeMonth": 757,
     "timeYear": 757,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-05-05": 0
+    }
   }
 ]
