@@ -4,19 +4,20 @@
     "url": "https://fiscosuper.com.br/",
     "icon": "https://icons.duckduckgo.com/ip3/fiscosuper.com.br.ico",
     "slug": "site-fisco-super",
-    "status": "down",
-    "uptime": "98.74%",
-    "uptimeDay": "98.74%",
-    "uptimeWeek": "98.74%",
-    "uptimeMonth": "98.74%",
-    "uptimeYear": "98.74%",
-    "time": 1684,
-    "timeDay": 1684,
-    "timeWeek": 1684,
-    "timeMonth": 1684,
-    "timeYear": 1684,
+    "status": "up",
+    "uptime": "93.29%",
+    "uptimeDay": "90.44%",
+    "uptimeWeek": "93.29%",
+    "uptimeMonth": "93.29%",
+    "uptimeYear": "93.29%",
+    "time": 1559,
+    "timeDay": 1060,
+    "timeWeek": 1559,
+    "timeMonth": 1559,
+    "timeYear": 1559,
     "dailyMinutesDown": {
-      "2026-05-05": 10
+      "2026-05-06": 111,
+      "2026-05-05": 27
     }
   },
   {
@@ -24,19 +25,20 @@
     "url": "https://apps.fiscosuper.com.br/login.xhtml",
     "icon": "https://icons.duckduckgo.com/ip3/apps.fiscosuper.com.br.ico",
     "slug": "app-fisco-super",
-    "status": "down",
-    "uptime": "96.71%",
-    "uptimeDay": "96.71%",
-    "uptimeWeek": "96.71%",
-    "uptimeMonth": "96.71%",
-    "uptimeYear": "96.71%",
-    "time": 2500,
-    "timeDay": 2500,
-    "timeWeek": 2500,
-    "timeMonth": 2500,
-    "timeYear": 2500,
+    "status": "up",
+    "uptime": "92.50%",
+    "uptimeDay": "90.75%",
+    "uptimeWeek": "92.50%",
+    "uptimeMonth": "92.50%",
+    "uptimeYear": "92.50%",
+    "time": 2405,
+    "timeDay": 2214,
+    "timeWeek": 2405,
+    "timeMonth": 2405,
+    "timeYear": 2405,
     "dailyMinutesDown": {
-      "2026-05-05": 26
+      "2026-05-06": 111,
+      "2026-05-05": 43
     }
   },
   {
@@ -44,19 +46,20 @@
     "url": "https://apps.fiscosuper.com.br/swagger/",
     "icon": "https://icons.duckduckgo.com/ip3/apps.fiscosuper.com.br.ico",
     "slug": "api-fisco-super",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 757,
-    "timeDay": 757,
-    "timeWeek": 757,
-    "timeMonth": 757,
-    "timeYear": 757,
+    "status": "up",
+    "uptime": "93.79%",
+    "uptimeDay": "91.16%",
+    "uptimeWeek": "93.79%",
+    "uptimeMonth": "93.79%",
+    "uptimeYear": "93.79%",
+    "time": 783,
+    "timeDay": 885,
+    "timeWeek": 783,
+    "timeMonth": 783,
+    "timeYear": 783,
     "dailyMinutesDown": {
-      "2026-05-05": 0
+      "2026-05-06": 110,
+      "2026-05-05": 17
     }
   }
 ]
