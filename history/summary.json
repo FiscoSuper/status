@@ -4,10 +4,10 @@
     "url": "https://fiscosuper.com.br/",
     "icon": "https://icons.duckduckgo.com/ip3/fiscosuper.com.br.ico",
     "slug": "site-fisco-super",
-    "status": "up",
+    "status": "down",
     "uptime": "98.67%",
-    "uptimeDay": "84.29%",
-    "uptimeWeek": "97.76%",
+    "uptimeDay": "83.61%",
+    "uptimeWeek": "97.66%",
     "uptimeMonth": "98.67%",
     "uptimeYear": "98.67%",
     "time": 1610,
@@ -18,7 +18,7 @@
     "dailyMinutesDown": {
       "2026-05-06": 111,
       "2026-05-05": 27,
-      "2026-05-24": 226
+      "2026-05-24": 236
     }
   },
   {
@@ -26,12 +26,12 @@
     "url": "https://apps.fiscosuper.com.br/login.xhtml",
     "icon": "https://icons.duckduckgo.com/ip3/apps.fiscosuper.com.br.ico",
     "slug": "app-fisco-super",
-    "status": "up",
-    "uptime": "86.78%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "85.68%",
-    "uptimeMonth": "86.78%",
-    "uptimeYear": "86.78%",
+    "status": "down",
+    "uptime": "87.10%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "92.74%",
+    "uptimeMonth": "87.10%",
+    "uptimeYear": "87.10%",
     "time": 2459,
     "timeDay": 2994,
     "timeWeek": 2519,
@@ -47,7 +47,8 @@
       "2026-05-12": 129,
       "2026-05-16": 633,
       "2026-05-18": 725,
-      "2026-05-17": 954
+      "2026-05-17": 954,
+      "2026-05-24": 5
     }
   },
   {
@@ -55,12 +56,12 @@
     "url": "https://apps.fiscosuper.com.br/swagger/",
     "icon": "https://icons.duckduckgo.com/ip3/apps.fiscosuper.com.br.ico",
     "slug": "api-fisco-super",
-    "status": "up",
-    "uptime": "86.97%",
+    "status": "down",
+    "uptime": "87.30%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "85.68%",
-    "uptimeMonth": "86.97%",
-    "uptimeYear": "86.97%",
+    "uptimeWeek": "92.79%",
+    "uptimeMonth": "87.30%",
+    "uptimeYear": "87.30%",
     "time": 687,
     "timeDay": 503,
     "timeWeek": 558,
